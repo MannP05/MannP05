@@ -35,7 +35,7 @@
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://gitlab.com/YOUR_GITLAB">
+  <a href="https://gitlab.com/MannP05">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
   </a>
 </div>
